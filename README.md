@@ -1,2 +1,0 @@
-# WordPressBase
-base siti wordpress 
